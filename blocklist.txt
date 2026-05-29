@@ -170,6 +170,7 @@ oneplace.com
 sermonaudio.com
 biblegateway.com
 ads.biblegateway.com
+
 # =========================================================
 # 8. CRYPTOMINING & BROWSER HIJACKING SHIELD
 # =========================================================
