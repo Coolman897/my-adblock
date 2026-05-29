@@ -904,7 +904,7 @@ residual-junk-tracker.com
 endpoint-ad-exchange.xyz
 
 # =========================================================
-# 101: ROKU TELEMETRY & AD BLOCKING (REFINED)
+# 101. ROKU TELEMETRY & AD BLOCKING (REFINED)
 # =========================================================
 p.ads.roku.com
 scribe.logs.roku.com
