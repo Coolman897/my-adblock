@@ -155,21 +155,21 @@ config.samsungads.com
 bms.smartclip.net
 
 # =========================================================
-# 7. RELIGIOUS AD NETWORKS & STANDALONE CONTENT BLOCKING
+# 7: ROKU TELEMETRY & AD BLOCKING (REFINED)
 # =========================================================
-# Targeted religious advertising & tracking networks
-faithlife.com
-api.faithlife.com
-salemmedia.com
-saleminteractivemedia.com
-christianity.com
-crosscards.com
-godtube.com
-lightsource.com
-oneplace.com
-sermonaudio.com
-biblegateway.com
-ads.biblegateway.com
+p.ads.roku.com
+scribe.logs.roku.com
+cooper.logs.roku.com
+liberty.logs.roku.com
+austin.logs.roku.com
+griffin.logs.roku.com
+littlefield.logs.roku.com
+paolo.logs.roku.com
+sugarland.logs.roku.com
+victoria.logs.roku.com
+windsor.logs.roku.com
+tyler.logs.roku.com
+giga.logs.roku.com
 
 # =========================================================
 # 8. CRYPTOMINING & BROWSER HIJACKING SHIELD
