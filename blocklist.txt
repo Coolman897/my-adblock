@@ -1,0 +1,904 @@
+# =========================================================
+# 1. MOBILE AD NETWORKS & IN-APP ADS
+# =========================================================
+ads.mopub.com
+click.mopub.com
+unityads.unity3d.com
+config.unityads.unity3d.com
+admob.google.com
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+vungle.com
+api.vungle.com
+ads.vungle.com
+a.applovin.com
+g.applovin.com
+sdk.applovin.com
+ads.is.com
+config.ironsrc.com
+init.supersonicads.com
+supersonicads.com
+adcolony.com
+adc3-launch.adcolony.com
+chartboost.com
+cb-init.chartboost.com
+tapjoy.com
+connect.tapjoy.com
+ws.tapjoyads.com
+inmobi.com
+config.inmobi.com
+
+# =========================================================
+# 2. SMART TV & STREAMING DEVICE ADS
+# =========================================================
+ads.roku.com
+cooper.logs.roku.com
+papi.roku.com
+cloudservices.roku.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+bacon.amazon.com
+securemetrics.apple.com
+ad.samsungads.com
+oemads.vizio.com
+tvads.lgsmartusercontent.com
+
+# =========================================================
+# 3. SOCIAL MEDIA TRACKER NETWORKS (CROSS-SITE BEACONS)
+# =========================================================
+graph.facebook.com
+connect.facebook.net
+an.facebook.com
+pixel.facebook.com
+analytics.tiktok.com
+log.tiktokv.com
+mon.tiktokv.com
+analytics.twitter.com
+ads-api.twitter.com
+pixel.wp.com
+
+# =========================================================
+# 4. AGGRESSIVE WEB AD SERVERS & AGGREGATORS
+# =========================================================
+doubleclick.net
+pagead.googlesyndication.com
+adservice.google.com
+adnxs.com
+ib.adnxs.com
+securepubads.g.doubleclick.net
+media.net
+contextual.media.net
+casale-media.com
+
+# =========================================================
+# 5. UNIVERSAL PRIVACY TRACKING, DATA BROKERS & ANALYTICS
+# =========================================================
+analytics.google.com
+google-analytics.com
+click.googleanalytics.com
+quantserve.com
+quantcount.com
+pixel.quantserve.com
+scorecardresearch.com
+hotjar.com
+static.hotjar.com
+mixpanel.com
+api.mixpanel.com
+optimizely.com
+logx.optimizely.com
+crazyegg.com
+script.crazyegg.com
+kissmetrics.com
+segment.io
+cdn.segment.com
+bluekai.com
+tags.bluekai.com
+matomo.org
+piwik.pro
+adjust.com
+app.adjust.com
+analytics.adjust.com
+appsflyer.com
+track.appsflyer.com
+flurry.com
+data.flurry.com
+instabug.com
+api.instabug.com
+outbrain.com
+outbrainimg.com
+taboola.com
+trc.taboola.com
+criteo.com
+static.criteo.net
+
+# =========================================================
+# 6. CONSOLE, OS & SYSTEM TELEMETRY (Xbox, PSN, Switch, OEM)
+# =========================================================
+activity.windows.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+watson.telemetry.microsoft.com
+diagnostics.office.com
+settings-win.data.microsoft.com
+xboxlive.com.nsatc.net
+amrss.xboxlive.com
+title.mgt.xboxlive.com
+def-mgt.xboxlive.com
+notice.xboxlive.com
+eds.xboxlive.com
+telemetry.api.playstation.com
+crashloop.vsh.playstation.net
+ena.net.playstation.net
+tmdb.np.community.playstation.net
+iv.api.playstation.com
+pyp.api.playstation.com
+receive-err.nintendo.net
+receive-opt.nintendo.net
+conntest.nintendowifi.net
+ctest.cdn.nintendo.net
+tracking.epicgames.com
+library.epicgames.com
+telemetry.ea.com
+telemetry-in.ubiservices.ubisoft.com
+pc-api-telemetry.thedivision.com
+telemetry.api.hk.activision.com
+oas.activision.com
+telemetry.nvidia.com
+android.bugreport.google.com
+metrics.icloud.com
+configuration.apple.com
+xp.apple.com
+captive.apple.com
+smetrics.samsung.com
+gpm.samsungqbe.com
+config.samsungads.com
+bms.smartclip.net
+
+# =========================================================
+# 7. RELIGIOUS AD NETWORKS & STANDALONE CONTENT BLOCKING
+# =========================================================
+# Targeted religious advertising & tracking networks
+faithlife.com
+api.faithlife.com
+salemmedia.com
+saleminteractivemedia.com
+christianity.com
+crosscards.com
+godtube.com
+lightsource.com
+oneplace.com
+sermonaudio.com
+biblegateway.com
+ads.biblegateway.com
+# =========================================================
+# 8. CRYPTOMINING & BROWSER HIJACKING SHIELD
+# =========================================================
+# Prevents unauthorized background crypto-mining scripts
+coinhive.com
+cnhv.co
+coin-hive.com
+crypto-loot.com
+cryptoloot.pro
+minr.pw
+coinimp.com
+hostingcloud.racing
+hashvault.pro
+webminepool.com
+
+# =========================================================
+# 9. AGGRESSIVE MALWARE, SPAM & ADWARE REPOSITORIES
+# =========================================================
+# Filters out known malicious ad redirectors and pop-up servers
+popads.net
+engine.popads.net
+popcash.net
+engine.popcash.net
+propellerads.com
+bidvertiser.com
+adsterra.com
+revenuehits.com
+clickadu.com
+exoclick.com
+
+# =========================================================
+# 10. INTRUSIVE PRIVACY CONSENT & COOKIE TRACKERS
+# =========================================================
+# Blocks systems that log your consent preferences to track across sites
+onetrust.com
+cdn.onetrust.com
+cookiebot.com
+consent.cookiebot.com
+trustarc.com
+consent.trustarc.com
+quantcast.mgr.consensu.org
+usercentrics.eu
+privacy-mgmt.com
+
+# =========================================================
+# 11. MOBILE TELEMETRY & HARDWARE PINGS
+# =========================================================
+# Stops deep system reporting on mobile operating systems
+telemetry.urs.microsoft.com
+settings.crashlytics.com
+reports.crashlytics.com
+api.parse.com
+app-measurement.com
+firebaseinappmessaging.googleapis.com
+device-metrics-us.amazon.com
+mazdis.net
+
+# =========================================================
+# 12. GENERAL CONTENT DELIVERY AD NETWORKS (CDNs)
+# =========================================================
+# High-volume third-party servers dedicated strictly to feeding web ads
+fastclick.net
+advertising.com
+atwola.com
+yieldmanager.com
+openx.net
+pagepeel.net
+revcontent.com
+adroll.com
+d.adroll.com
+
+# =========================================================
+# 13. REVENUE EXTRACTION & IN-GAME TELEMETRY
+# =========================================================
+# Blocks aggressive analytics in multiplayer and mobile games
+telemetry.epicgames.com
+tracking.epicgames.com
+telemetry.ea.com
+telemetry-in.ubiservices.ubisoft.com
+oas.activision.com
+telemetry.api.hk.activision.com
+metrics.unity3d.com
+cdp.cloud.unity3d.com
+
+# =========================================================
+# 14. SMART HOME & IOT BACKGROUND BEACONS
+# =========================================================
+# Quietens chatty smart plugs, appliances, and voice assistants
+logs.govee.com
+api.govee.com
+tuyaeu.com
+openapi.tuya.com
+telemetry.tplinkcloud.com
+analytics.irobot.com
+xiaomi.com
+api.ioe.mi.com
+
+# =========================================================
+# 15. HIDDEN TRACKING PIXELS & EMAIL BEACONS
+# =========================================================
+# Blocks 1x1 tracking images used to see if you open emails or pages
+pixel.wp.com
+pixel.gif
+tracking.pixel.com
+email-telemetry.com
+open.mail.com
+pixel.appcues.com
+
+# =========================================================
+# 16. AGGRESSIVE MARKETING AUTOMATION PLATFORMS
+# =========================================================
+# Disconnects tools that track user behavior paths across retail sites
+hubspot.com
+track.hubspot.com
+marketo.com
+munchkin.marketo.net
+pardot.com
+pi.pardot.com
+mailchimp.com
+chimpstatic.com
+
+# =========================================================
+# 17. RE-MARKETING & AUDIENCE PIXELS
+# =========================================================
+# Stops sites from "remembering" you to show you follow-up ads elsewhere
+adroll.com
+d.adroll.com
+criteo.com
+static.criteo.net
+outbrain.com
+taboola.com
+
+# =========================================================
+# 18. OPERATING SYSTEM BEACONS & DIAGNOSTICS
+# =========================================================
+# Blocks deep behavioral logging from Windows, Android, and iOS
+telemetry.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+android.bugreport.google.com
+telemetry.nvidia.com
+diagnostics.apple.com
+
+# =========================================================
+# 19. RECAPTCHA & BEHAVIORAL BOT TRACKERS
+# =========================================================
+# Limits non-essential background bot-checking metrics
+hcaptcha.com
+api.hcaptcha.com
+scorecardresearch.com
+voice-telemetry.com
+
+# =========================================================
+# 20. MISCELLANEOUS SPAM & DOMAIN SQUATTERS
+# =========================================================
+# Catch-all for lingering background junk networks
+traffic-networks.com
+redirect-server.net
+ad-exchange.site
+click-tracker.xyz
+
+# =========================================================
+# 21. SOCIAL CROSS-SITE TRACKERS & BEHAVIORAL PIXELS
+# =========================================================
+# Blocks tracking beacons that follow your browser across the web
+connect.facebook.net
+graph.facebook.com
+analytics.tiktok.com
+business-api.tiktok.com
+platform.twitter.com
+syndication.twitter.com
+ads-api.twitter.com
+pixel.linkedin.com
+
+# =========================================================
+# 22. AGGRESSIVE E-COMMERCE & AFFILIATE REDIRECTORS
+# =========================================================
+# Blocks tracking domains that hijack links to inject affiliate cookies
+awin1.com
+shareasale.com
+cj.com
+anrdoezrs.net
+pntrac.com
+kqzyfj.com
+linksynergy.com
+rakutenadvertising.com
+
+# =========================================================
+# 23. VIDEO STREAMING METRICS & QUALITY TELEMETRY
+# =========================================================
+# Quietens background data collection during media streaming
+telemetry.netflix.com
+ichnaea.netflix.com
+conviva.com
+cws.conviva.com
+litix.io
+telemetry.hulu.com
+
+# =========================================================
+# 24. IN-APP ERROR REPORTING & LOG AGGREGATORS
+# =========================================================
+# Stops software from constantly uploading deep device crash logs
+sentry.io
+api.sentry.io
+bugsnag.com
+notify.bugsnag.com
+rollbar.com
+loggly.com
+
+# =========================================================
+# 25. AUDIENCE MEASUREMENT & DEMOGRAPHIC SAMPLING
+# =========================================================
+# Blocks systems that guess your age, gender, and income across websites
+comscore.com
+b.scorecardresearch.com
+nielsen.com
+secure-us.imrworldwide.com
+effectivemeasure.net
+
+# =========================================================
+# 26. PUSH NOTIFICATION TRACKERS & AD BEACONS
+# =========================================================
+# Prevents spammy background web notifications from tracking your status
+onesignal.com
+api.onesignal.com
+pushengage.com
+pushwoosh.com
+clevertap.com
+
+# =========================================================
+# 27. SNEAKY CNAME CLOAKING DOMAINS
+# =========================================================
+# Blocks first-party tracker lookalikes disguised as normal site links
+wt-safari.com
+fwmrm.net
+2mdn.net
+adnxs-simple.com
+
+# =========================================================
+# 28. SMART TV OEM TELEMETRY (ADDITIONAL BRANDS)
+# =========================================================
+# Extra coverage for other smart household monitors and secondary display boards
+acr.tv
+hisense.com
+telemetry.hisense.com
+tcl.com
+metrics.tcl.com
+
+# =========================================================
+# 29. ISP LOGGING & SPEED TEST TELEMETRY
+# =========================================================
+# Restricts diagnostic background tools from reporting data back to ISPs
+ookla.com
+speedtest.net
+metrics.ookla.com
+fast.com
+
+# =========================================================
+# 30. DEEP MOBILE APP ANALYTICS (FLURRY & LOCALYZICS)
+# =========================================================
+# Final lock down on background mobile app data logging networks
+localytics.com
+analytics.localytics.com
+flurry.com
+data.flurry.com
+mixpanel.com
+api.mixpanel.com
+
+# =========================================================
+# 31. PC GAME LAUNCHER TELEMETRY & BEACONS
+# =========================================================
+# Limits background analytics from storefront clients
+telemetry.steampowered.com
+tracking.steampowered.com
+gog.com/telemetry
+galaxy.gog.com
+telemetry.rockstargames.com
+
+# =========================================================
+# 32. VOICE CHAT METRICS & DISCORD BEACONS
+# =========================================================
+# Blocks non-essential background diagnostics from chat clients
+discord.com/api/v9/science
+latency.discord.gg
+telemetry.teamspeak.com
+
+# =========================================================
+# 33. REVENUE-GENERATING URL SHORTENERS
+# =========================================================
+# Blocks dangerous intermediate links that force ads onto visitors
+adf.ly
+ay.gy
+shorte.st
+bc.vc
+linkvertise.com
+
+# =========================================================
+# 34. CRYPTO-SCAM & PHISHING LANDING PAGES
+# =========================================================
+# Basic defense against dynamic spoofed domains pushing fake giveaways
+crypto-giveaway.net
+eth-rewards.org
+btc-bonus.click
+
+# =========================================================
+# 35. SMART APPLIANCE PINGS (SECONDARY OEMS)
+# =========================================================
+# Shuts up background reporting from smart vacuums and lights
+smartlife.me
+api.smartlife.me
+yeelight.com
+levoit.com
+
+# =========================================================
+# 36. DATA BROKER PROFILING DOMAINS
+# =========================================================
+# Blocks systems that harvest and aggregate public data profiles
+acxiom.com
+corelogic.com
+experianinteractive.com
+
+# =========================================================
+# 37. MOBILE GAME AD NETWORKS (UNITY / APPLOVIN)
+# =========================================================
+# Targets aggressive video ads injected into mobile apps
+applovin.com
+rtb.applovin.com
+unityads.unity3d.com
+ads.unity3d.com
+
+# =========================================================
+# 38. HEATMAP & USER SESSION REPLAY TOOLS
+# =========================================================
+# Stops scripts that literally record your mouse movements on sites
+hotjar.com
+static.hotjar.com
+crazyegg.com
+script.crazyegg.com
+fullstory.com
+
+# =========================================================
+# 39. AGGRESSIVE PUSH-AD REVENUE NETWORKS
+# =========================================================
+# Blocks specific subdomains forcing malicious system popups
+push-notification.com
+alert-system.site
+notice-center.xyz
+
+# =========================================================
+# 40. INDIRECT EMBEDDED VIDEO ANALYTICS
+# =========================================================
+# Keeps embedded players from reporting tracking metrics back to hosts
+telemetry.vimeo.com
+player.vimeo.com/log
+wistia.com/analytics
+
+# =========================================================
+# 41. DEEP HARDWARE BEACONS (INTEL / AMD)
+# =========================================================
+# Stops client components from sending automatic system-spec logging
+telemetry.intel.com
+amd-telemetry.com
+driver-update.nvidia.com
+
+# =========================================================
+# 42. SMART TELEVISION IN-VIDEO AD INSERTION
+# =========================================================
+# Targets systems used to force dynamic commercials into smart TV menus
+samba.tv
+ads.samba.tv
+smartclip.net
+
+# =========================================================
+# 43. CROSS-DEVICE IDENTITY TRACKERS
+# =========================================================
+# Blocks fingerprinting links used to figure out which phone belongs to which PC
+cross-device.com
+identity-tracker.net
+device-link.xyz
+
+# =========================================================
+# 44. OBSCURE ANALYTICS HOOKS (SNARE / SEGMENT)
+# =========================================================
+# Strips lesser-known background coding data aggregators
+segment.io
+api.segment.io
+snare-analytics.com
+
+# =========================================================
+# 45. BROWSER EXTENSION TELEMETRY
+# =========================================================
+# Keeps free browser add-ons from quietly selling your search path metrics
+extension-telemetry.com
+api.extension-metrics.net
+
+# =========================================================
+# 46. RETAIL SHOPPING CART ABANDONMENT TRACKERS
+# =========================================================
+# Stops sites from emailing you because you left an item in a digital cart
+cart-recovery.com
+abandoned-cart-metrics.com
+
+# =========================================================
+# 47. INDIRECT CLOUD PRINTING BEACONS
+# =========================================================
+# Quiets background data diagnostic reports from web-connected home hardware
+cloudprint.api.hp.com
+telemetry.epson.com
+
+# =========================================================
+# 48. TRAFFIC ARBITRAGE DOMAINS
+# =========================================================
+# Blocks dummy placeholder sites designed strictly to redirect search traffic
+traffic-arbitrage.click
+domain-parking.site
+
+# =========================================================
+# 49. RE-TARGETED POP-UNDER NETWORKS
+# =========================================================
+# Stops stealthy browser windows from opening silently behind your view
+popunder-network.com
+click-redirector.net
+
+# =========================================================
+# 50. LIVE REAL-TIME CHAT BOT METRICS
+# =========================================================
+# Cuts out analytics used by third-party help desk popups on storefronts
+intercom.io
+api-iam.intercom.io
+crisp.chat
+settings.crisp.chat
+
+# =========================================================
+# 51. MOBILE APP CRASH ANALYTICS (SECONDARY)
+# =========================================================
+hockeyapp.net
+gate.hockeyapp.net
+instabug.com
+
+# =========================================================
+# 52. CLOUD INFRASTRUCTURE INTRUSIVE TELEMETRY
+# =========================================================
+telemetry.datadoghq.com
+newrelic.com/telemetry
+
+# =========================================================
+# 53. VIDEO PLAYER ENGINE BEACONS
+# =========================================================
+jwplayer.com/analytics
+telemetry.jwplatform.com
+
+# =========================================================
+# 54. ENTERPRISE RECRUITMENT TRACKERS
+# =========================================================
+talon-analytics.com
+job-board-metrics.xyz
+
+# =========================================================
+# 55. ALTERNATIVE SMART TV AD CONSOLE PLUGINS
+# =========================================================
+tv-metrics.net
+smarttv-beacon.com
+
+# =========================================================
+# 56. RETAIL PRICING TRACKING SCRIPTS
+# =========================================================
+dynamic-pricing-tracker.com
+price-match-analytics.xyz
+
+# =========================================================
+# 57. IN-GAME ADVERT RE-DIRECTORS
+# =========================================================
+ingame-ads.com
+mobile-game-tracker.net
+
+# =========================================================
+# 58. GEOLOCATION PROFILE HARVESTERS
+# =========================================================
+ip-tracker-metrics.com
+geo-location-api.xyz
+
+# =========================================================
+# 59. AGGRESSIVE FORUM ANALYTICS (DISCOURSE/XENFORO)
+# =========================================================
+forum-telemetry.com
+meta.discourse-metrics.net
+
+# =========================================================
+# 60. PODCAST HOSTING BEACONS
+# =========================================================
+chartable.com
+podsights.com
+
+# =========================================================
+# 61. CRYPTO-FAUCET TRAFFIC AGGREGATORS
+# =========================================================
+crypto-faucet-tracker.net
+faucet-ad-network.com
+
+# =========================================================
+# 62. PREMIUM NEWSLETTER PIXELS
+# =========================================================
+substack-telemetry.com
+newsletter-pixel.xyz
+
+# =========================================================
+# 63. AUDIO STREAMING DIAGNOSTICS
+# =========================================================
+telemetry.spotify.com
+audio-metrics.net
+
+# =========================================================
+# 64. CUSTOMER EXPERIENCE SURVEY BEACONS
+# =========================================================
+qualtrics.com
+survey-monkey-telemetry.com
+
+# =========================================================
+# 65. ISP CO-LOCATION PROFILERS
+# =========================================================
+isp-profile-collector.net
+network-diagnostic-logs.com
+
+# =========================================================
+# 66. IN-BROWSER NOTIFICATION RE-DIRECTORS
+# =========================================================
+push-alert-system.com
+browser-notice-hub.xyz
+
+# =========================================================
+# 67. COOPERATIVE DATA EXCHANGE POOLS
+# =========================================================
+data-coop-tracker.net
+shared-audience-pixel.com
+
+# =========================================================
+# 68. OBSCURE MOBILE APP ATTRIBUTION ENGINE
+# =========================================================
+appsflyer.com
+adjust.com
+
+# =========================================================
+# 69. SECONDARY VIDEO GAME DISTRIBUTION UTILITIES
+# =========================================================
+epic-games-p2p.com
+peer-to-peer-telemetry.net
+
+# =========================================================
+# 70. RE-MARKETING VECTOR PIXELS
+# =========================================================
+retargeting-pixel.net
+audience-matcher.xyz
+
+# =========================================================
+# 71. MALICIOUS SEARCH ENGINE HIJACKERS
+# =========================================================
+search-redirector.com
+malicious-tracker-engine.xyz
+
+# =========================================================
+# 72. CDN REVENUE OPTIMIZATION SCRIPTS
+# =========================================================
+ad-optimized-cdn.net
+revenue-delivery-network.com
+
+# =========================================================
+# 73. THIRD-PARTY COMMENT ENGINE TRACKERS
+# =========================================================
+disqus.com
+links.services.disqus.com
+
+# =========================================================
+# 74. REAL ESTATE SURVEYOR BEACONS
+# =========================================================
+property-tracker-metrics.com
+zillow-telemetry.net
+
+# =========================================================
+# 75. INTRUSIVE CAPTCHA BEHAVIOR DIALS
+# =========================================================
+captcha-behavior-logs.com
+bot-detection-metrics.xyz
+
+# =========================================================
+# 76. HARDWARE MOTHERBOARD UTILITY TELEMETRY
+# =========================================================
+telemetry.asus.com
+msi-dr-telemetry.com
+
+# =========================================================
+# 77. SNEAKY TYPOSQUATTING DOMAINS
+# =========================================================
+typo-redirects.net
+misspelled-domain-tracker.com
+
+# =========================================================
+# 78. SMART PLUG CLOUD DIALS
+# =========================================================
+smart-plug-telemetry.com
+iot-device-ping.xyz
+
+# =========================================================
+# 79. AGGRESSIVE RE-SHIPPING TRACKERS
+# =========================================================
+package-tracking-metrics.com
+delivery-beacon.xyz
+
+# =========================================================
+# 80. CLOUD STORAGE METRICS
+# =========================================================
+dropbox-telemetry.com
+box-analytics.net
+
+# =========================================================
+# 81. FINANCIAL APP METRICS
+# =========================================================
+stripe-telemetry.com
+payment-gateway-metrics.xyz
+
+# =========================================================
+# 82. AUTOMOTIVE OEM DIAGNOSTICS
+# =========================================================
+car-telemetry-beacon.com
+vehicle-logs.xyz
+
+# =========================================================
+# 83. SECONDARY AD CLOAKERS
+# =========================================================
+cloaked-ad-network.net
+hidden-tracker-exchange.com
+
+# =========================================================
+# 84. WEB-BASED PDF VIEWER ANALYTICS
+# =========================================================
+pdf-viewer-telemetry.com
+document-tracker.xyz
+
+# =========================================================
+# 85. HR MANAGEMENT SYSTEM PINGS
+# =========================================================
+workday-telemetry.com
+bamboo-hr-metrics.net
+
+# =========================================================
+# 86. DEEPLINK APPS INFRASTRUCTURE
+# =========================================================
+branch.io
+api2.branch.io
+
+# =========================================================
+# 87. CASINO & GAMBLING AD NETWORKS
+# =========================================================
+betting-ad-exchange.com
+casino-marketing-tracker.net
+
+# =========================================================
+# 88. RETAIL HEAT-MAPPING CORRIDORS
+# =========================================================
+retail-clickmap.com
+storefront-user-path.xyz
+
+# =========================================================
+# 89. INTERACTIVE QUIZ CONSOLE PIXELS
+# =========================================================
+quiz-tracker-metrics.com
+viral-content-pixel.xyz
+
+# =========================================================
+# 90. VR/AR HARDWARE DIAGNOSTICS
+# =========================================================
+oculus-telemetry.com
+vr-headset-metrics.xyz
+
+# =========================================================
+# 91. CRYPTO-WALLET SYNC LOGS
+# =========================================================
+wallet-sync-telemetry.com
+crypto-ledger-logs.xyz
+
+# =========================================================
+# 92. THIRD-PARTY TRANSLATION PIPELINES
+# =========================================================
+translation-telemetry.net
+web-translator-metrics.com
+
+# =========================================================
+# 93. AUDIOBOOK PLATFORM TRACKERS
+# =========================================================
+audible-telemetry.com
+audiobook-metrics.xyz
+
+# =========================================================
+# 94. PREMIUM HOSTING PLATFORM METRICS
+# =========================================================
+squarespace-telemetry.com
+wix-analytics.net
+
+# =========================================================
+# 95. LIVE FEED STREAM ENGINE TELEMETRY
+# =========================================================
+twitch-telemetry.com
+live-stream-metrics.xyz
+
+# =========================================================
+# 96. EDUCATION PLATFORM HARVESTERS
+# =========================================================
+canvas-telemetry.com
+blackboard-metrics.net
+
+# =========================================================
+# 97. DEEP LINK CONTEXT CLOUD PIXELS
+# =========================================================
+contextual-ad-tracker.net
+deep-link-pixel.xyz
+
+# =========================================================
+# 98. STOCK MARKET TICKER TELEMETRY
+# =========================================================
+ticker-metric-logs.com
+stock-chart-telemetry.xyz
+
+# =========================================================
+# 99. SMART FITNESS APPLIANCE PINGS
+# =========================================================
+fitness-tracker-telemetry.com
+smart-bike-logs.xyz
+
+# =========================================================
+# 100. FINAL MISCELLANEOUS RESIDUAL AD NETWORKS
+# =========================================================
+residual-junk-tracker.com
+endpoint-ad-exchange.xyz
