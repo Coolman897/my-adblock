@@ -903,3 +903,19 @@ smart-bike-logs.xyz
 # =========================================================
 residual-junk-tracker.com
 endpoint-ad-exchange.xyz
+
+# =========================================================
+# SECTION 100-200: EXPANDED THIRD-PARTY TRACKING DEFENSE
+# =========================================================
+
+# 100-125: Advertising & Marketing Networks
+doubleclick.net, ads.google.com, adservice.google.com, googlesyndication.com, pagead2.googlesyndication.com, ad.doubleclick.net, ads.yahoo.com, stats.g.doubleclick.net, tagmanager.google.com, adform.net, criteo.com, adnxs.com, indexww.com, pubmatic.com, rubiconproject.com, openx.net, moatads.com, track.google.com, pixel.google.com, gclid.google.com, ads.msn.com, ampproject.org, tracking.kargo.com, ads.pubmatic.com, ib.adnxs.com
+
+# 126-150: Social Media & Embedded Trackers
+analytics.twitter.com, ads.twitter.com, ads.pinterest.com, ads.tiktok.com, ads.linkedin.com, securepubads.g.doubleclick.net, cdn.doubleclick.net, dpm.demdex.net, adclick.g.doubleclick.net, creative.ak.fbcdn.net, static.ak.facebook.com, connect.facebook.net, pixel.facebook.com, graph.facebook.com, scontent.xx.fbcdn.net, aaxads.com, adsafeprotected.com, advertising.com, atdmt.com, casalemedia.com, exelator.com, imrworldwide.com, nielsen-online.com, omtrdc.net, scorecardresearch.com
+
+# 151-175: Data & Telemetry Endpoints
+telemetry.microsoft.com, vortex.data.microsoft.com, metrics.icloud.com, device-metrics.apple.com, logs.samsung.com, telemetry.apple.com, analytics.samsung.com, api.mixpanel.com, app-measurement.com, crashlytics.com, segment.com, branch.io, kochava.com, adjust.com, singular.net, appsflyer.com, urbanairship.com, mparticle.com, amplitude.com, fullstory.com, hotjar.com, datadoghq.com, newrelic.com, sentry.io, loggly.com
+
+# 176-200: Additional Third-Party Trackers
+cname-tracker.com, adnxs.com, btrll.com, contextweb.com, yieldmo.com, sovrn.com, gumgum.com, triplelift.com, appnexus.com, bidswitch.net, spotxchange.com, freewheel.tv, smartadserver.com, outbrain.com, taboola.com, revcontent.com, mgid.com, content.ad, popin.cc, tpc.googlesyndication.com, gads.pubmatic.com, xandr.com, cdn.adnxs.com, insight.adsrvr.org, ads.addthis.com
