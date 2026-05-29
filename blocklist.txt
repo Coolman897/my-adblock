@@ -919,3 +919,45 @@ telemetry.microsoft.com, vortex.data.microsoft.com, metrics.icloud.com, device-m
 
 # 176-200: Additional Third-Party Trackers
 cname-tracker.com, adnxs.com, btrll.com, contextweb.com, yieldmo.com, sovrn.com, gumgum.com, triplelift.com, appnexus.com, bidswitch.net, spotxchange.com, freewheel.tv, smartadserver.com, outbrain.com, taboola.com, revcontent.com, mgid.com, content.ad, popin.cc, tpc.googlesyndication.com, gads.pubmatic.com, xandr.com, cdn.adnxs.com, insight.adsrvr.org, ads.addthis.com
+
+# =========================================================
+# 201. HARD-CODED DoH (DNS OVER HTTPS) BYPASS ENDPOINTS
+# =========================================================
+# Blocks devices from bypassing your custom DNS settings
+dns.google
+cloudflare-dns.com
+dns.quad9.net
+doh.mullvad.net
+dns.nextdns.io
+
+# =========================================================
+# 202. AGGRESSIVE OS & WINDOWS TELEMETRY (ADDITIONAL)
+# =========================================================
+diag.diagnostics.live.com
+telemetry.remote.microsoft.com
+sqm.microsoft.com
+sqm.telemetry.microsoft.com
+win10.ipv6.microsoft.com
+
+# =========================================================
+# 203. SMART DEVICE PROPRIETARY TIME/SYNC SERVERS
+# =========================================================
+# Used by devices to "phone home" to report uptime and location
+time-a.nist.gov.pool.ntp.org
+time.google.com
+pool.ntp.org
+
+# =========================================================
+# 204. ADVANCED ANALYTICS & FINGERPRINTING
+# =========================================================
+fingerprintjs.com
+api.fingerprintjs.com
+trust-metrics.com
+behavioral-log.xyz
+
+# =========================================================
+# 205. REMAINING ROKU & STREAMING TELEMETRY
+# =========================================================
+cloudup.roku.com
+logs.roku.com
+c.roku.com
