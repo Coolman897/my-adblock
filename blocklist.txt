@@ -902,3 +902,20 @@ smart-bike-logs.xyz
 # =========================================================
 residual-junk-tracker.com
 endpoint-ad-exchange.xyz
+
+# =========================================================
+# 100: ROKU TELEMETRY & AD BLOCKING (REFINED)
+# =========================================================
+p.ads.roku.com
+scribe.logs.roku.com
+cooper.logs.roku.com
+liberty.logs.roku.com
+austin.logs.roku.com
+griffin.logs.roku.com
+littlefield.logs.roku.com
+paolo.logs.roku.com
+sugarland.logs.roku.com
+victoria.logs.roku.com
+windsor.logs.roku.com
+tyler.logs.roku.com
+giga.logs.roku.com
