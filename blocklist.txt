@@ -961,3 +961,29 @@ behavioral-log.xyz
 cloudup.roku.com
 logs.roku.com
 c.roku.com
+
+# =========================================================
+# 206. ROKU EXPRESS 4K HARD-CODED AD/TELEMETRY CONTAINMENT
+# =========================================================
+# Targets hard-coded servers and ACR (Automatic Content Recognition)
+# that attempt to bypass standard DNS filters.
+# 206: ads.roku.com
+# 207: p.ads.roku.com
+# 208: co.logs.roku.com
+# 209: s.logs.roku.com
+# 210: api.roku.com
+# 211: iap.roku.com
+# 212: uac.roku.com
+# 213: telemetry.roku.com
+# 214: device-metrics.roku.com
+# 215: background.roku.com
+# 216: ad-delivery.roku.com
+# 217: sdk-metrics.roku.com
+# 218: p.telemetry.roku.com
+# 219: analytics.roku.com
+# 220: logs.roku.com
+# 221: cloud.roku.com
+# 222: partner-ads.roku.com
+# 223: dynamic-ads.roku.com
+# 224: rchannel.roku.com
+# 225: click.ads.roku.com
